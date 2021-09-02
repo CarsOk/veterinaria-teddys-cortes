@@ -1,0 +1,139 @@
+main{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* border: 1px solid red; */
+    height: 670px;
+    width: 800px;
+    margin: auto;
+}
+
+
+
+header img{
+    width: 100%;
+    margin-bottom: -20PX;
+}
+nav{
+    /* border: 1px solid red; */
+    height: 80px ;
+    background-color: #1B4A48;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+nav ul li {
+    margin-top: 27px;
+    display: inline-block;
+    font-size: 18px;
+}
+nav a{
+   text-decoration: none;
+    margin-left: 15px;
+    margin-right: 80px;
+    color: white;
+}
+
+#general{
+    /* border: 3px solid blue; */
+    height: 350px ;
+    margin-top: 15px;
+    margin-bottom: -10px;
+}
+
+
+
+footer{
+    background-color: #1B4A48;
+    text-align: center;
+    /* border: 1px solid red; */
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px ;
+    /* height: 70px ; */
+}
+
+ #articulo{
+   /* border: 1px solid red; */
+   height: 330px;
+    width: 450px;
+    float: left;
+}   
+
+aside{
+    /* border: 1px solid blue; */
+    height: 330px;
+    width: 300px;
+    float: right;
+    background-color: #496E6c;
+    text-align: center ;
+    color: white;
+    border-radius: 20PX;
+    
+}
+
+#articulo article{
+    background-color: #FBF5BA;
+    height: 160px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+ 
+aside header{
+
+    text-align: center;
+    background-color: #0B2826;
+    color: white;
+    height: 40px;
+    border-top-left-radius: 20PX ;
+    border-top-right-radius: 20PX;
+}
+
+footer p{
+    color: white;
+    margin: auto  ;
+   
+}
+
+article p {
+    width: 320px ;
+    float:left;
+    padding: 10px;
+    text-align:left;
+}
+
+article img{
+    border: 1px solid #0B2826;
+    margin-top: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+    width: 80px;
+    height: 100px;
+    float: right;
+}
+
+article #header1{
+    font-weight: 100 bold;
+    text-align: center;
+    height: 0px;
+    
+}
+
+article #header2{
+    text-align: center;
+    height: -10px;
+}
+
+aside table {
+    border-collapse: separate;
+    border-spacing: 20px 15px;
+}
+
+#validar{
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    
+}
+
+table input{
+width: 150px;
+}
+
